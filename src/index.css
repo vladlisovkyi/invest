@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #e1ecff;
+}
+
+main {
+  padding: 0 2.5%;
+  margin-bottom: 80px;
+}
